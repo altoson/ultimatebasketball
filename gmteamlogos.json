@@ -1,8 +1,5 @@
 [
 {
-"startingSeason": 1950
-},
-{
 "city": "Boston",
 "mascot": "Celtics",
 "short": "BOS",
@@ -362,4 +359,7 @@
 "awaySecondary": "000000",
 "logoURL": "https://dl.dropbox.com/s/49kjddkrblgrtvc/spurs.png"
 }
+{
+"startingSeason": 1950
+}  
 ]
